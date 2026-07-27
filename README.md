@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0075-sort-colors) |
 ## Two Pointers
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->

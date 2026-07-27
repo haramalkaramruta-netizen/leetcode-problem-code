@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

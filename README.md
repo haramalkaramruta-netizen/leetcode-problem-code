@@ -30,10 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0704-binary-search) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

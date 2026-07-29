@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->

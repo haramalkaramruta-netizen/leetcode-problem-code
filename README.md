@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

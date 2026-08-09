@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0215-kth-largest-element-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/3345-smallest-divisible-digit-product-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

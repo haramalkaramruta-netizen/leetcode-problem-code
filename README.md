@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0125-valid-palindrome) |
@@ -146,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0184-department-highest-salary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

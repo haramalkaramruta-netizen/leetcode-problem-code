@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0704-binary-search) |
 | [3843-first-element-with-unique-frequency](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0704-binary-search) |
 ## Recursion
 |  |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0349-intersection-of-two-arrays) |
 | [3843-first-element-with-unique-frequency](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
 |  |

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
 ## Counting
 |  |

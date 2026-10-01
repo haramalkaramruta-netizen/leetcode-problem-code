@@ -10,14 +10,17 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if (head == null || head.next == null) {
-            return head;
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while (curr != null) {
+            ListNode nextNode = curr.next; // 1. Save the next node
+            curr.next = prev;              // 2. Reverse the link
+            prev = curr;                   // 3. Move prev forward
+            curr = nextNode;               // 4. Move curr forward
         }
-        
-        ListNode p = reverseList(head.next);
-        head.next.next = head;
-        head.next = null;
-        
-        return p;
+
+        return prev; // prev will be the new head of the reversed list
     }
 }
+

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0724-find-pivot-index) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3843-first-element-with-unique-frequency](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

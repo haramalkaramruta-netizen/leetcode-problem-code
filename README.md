@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0067-add-binary) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0202-happy-number) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0257-binary-tree-paths) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |

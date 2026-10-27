@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0724-find-pivot-index) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2643-row-with-maximum-ones](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/2643-row-with-maximum-ones) |
 | [3843-first-element-with-unique-frequency](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0240-search-a-2d-matrix-ii) |
+| [2643-row-with-maximum-ones](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0724-find-pivot-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0704-binary-search) |
 ## Recursion
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0020-valid-parentheses) |
+| [0456-132-pattern](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0456-132-pattern) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -255,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

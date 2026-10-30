@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0067-add-binary) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0257-binary-tree-paths) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/0456-132-pattern) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/haramalkaramruta-netizen/leetcode-problem-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
